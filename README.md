@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dheerajauthor
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ?
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Blog and content creation.
 - 📫 How to reach me Instagram @dheerajauthor
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Fictional Author and Poet
